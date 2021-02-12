@@ -1,2 +1,2 @@
 # gfpop.data
-dataset for the gfpop package
+datasets for the gfpop package
