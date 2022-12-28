@@ -10,7 +10,7 @@
   in laboratory animals.
 }
 \usage{data("neuroSpike")}
-\format{  
+\format{
   A data frame with 20000 observations on the following 4 variables.
   \describe{
     \item{\code{seconds}}{time of measurement}
