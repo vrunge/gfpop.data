@@ -11,11 +11,12 @@
 }
 \usage{data("neuroSpike")}
 \format{
-  A data frame with 20000 observations on the following 3 variables.
+  A data frame with 20000 observations on the following 4 variables.
   \describe{
     \item{\code{seconds}}{time of measurement}
     \item{\code{calcium}}{noisy data measured}
     \item{\code{AR1}}{autoregressive model mean, for comparison}
+    \item{\code{TrueSpike}}{True spike position}
   }
 }
 \source{
