@@ -5,7 +5,7 @@
   Neuro spike train data
 }
 \description{
-  The goal in these data s to detect the spikes = abrupt up
+  The goal in these data is to detect the spikes = abrupt up
   changes in calcium concentration, which correspond to neurons firing
   in laboratory animals.
 }
@@ -16,7 +16,7 @@
     \item{\code{seconds}}{time of measurement}
     \item{\code{calcium}}{noisy data measured}
     \item{\code{AR1}}{autoregressive model mean, for comparison}
-    \item{\code{TrueSpike}}{True spike position}
+    \item{\code{TrueSpike}}{logical}
   }
 }
 \source{
